@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather input="speech" timeout="5" action="/handle-gather">
+        <Say>Please speak to continue the call.</Say>
+    </Gather>
+    <Dial>
+        <Number>+SEU_NUMERO_PESSOAL</Number>
+    </Dial>
+</Response>
