@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Gather input="speech" timeout="30" action="/handle-gather">
+        <Say>Por favor, diga algo para redirecionar a chamada.</Say>
     </Gather>
     <Dial>
         <Number>+351937349402</Number>
