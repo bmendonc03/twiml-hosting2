@@ -3,6 +3,6 @@
     <Gather input="speech" timeout="5" action="/handle-gather">
     </Gather>
     <Dial>
-        <Number>+SEU_NUMERO_PESSOAL</Number>
+        <Number>+351937349402</Number>
     </Dial>
 </Response>
